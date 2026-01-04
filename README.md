@@ -1,6 +1,9 @@
 # 🐧 TryHackMe – Linux Fundamentals Part 1  
 ### Hands-On Linux Command Line Practice
 
+📄 **Full Lab Report (Google Doc):**  
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/1.5.4%20Lab%20-%20My%20Local%20Network-1.docx%20(1).pdf)
+
 ## 📘 Overview
 This repository documents my completion of the **TryHackMe – Linux Fundamentals Part 1** room.  
 The purpose of this lab was to build foundational Linux skills through direct, hands-on interaction with a Linux system using the command line.
