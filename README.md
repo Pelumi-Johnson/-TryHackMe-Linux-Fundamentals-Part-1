@@ -1,4 +1,4 @@
-# 🐧 TryHackMe – Linux Fundamentals Part 1  
+# 🐧 TryHackMe | Linux Fundamentals Part 1  
 ### Hands-On Linux Command Line Practice
 
 📄 **Full Lab Report (Google Doc):**  
