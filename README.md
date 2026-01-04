@@ -5,8 +5,7 @@
 👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-TryHackMe-Linux-Fundamentals-Part-1/blob/main/Tryhackme%20Linux%201.pdf)
 
 ## 📘 Overview
-This repository documents my completion of the **TryHackMe – Linux Fundamentals Part 1** room.  
-The purpose of this lab was to build foundational Linux skills through direct, hands-on interaction with a Linux system using the command line.
+This repository documents my completion of the **TryHackMe – Linux Fundamentals Part 1** room. The purpose of this lab was to build foundational Linux skills through direct, hands-on interaction with a Linux system using the command line.
 
 All actions were performed on a **live Ubuntu Linux machine** deployed directly in the browser through TryHackMe. This was not a simulation or theory only exercise, every command shown was executed in a real Linux environment.
 
